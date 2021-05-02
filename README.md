@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello Github!
+
+I'm Jorge and I love using tech to deliver solutions!
+
+- 🌱 I'm currently learning more about Python and SQL and how to write cleaner code!
+- 🤓 I'm also teaching myself Julia at the moment...what a great language!
+- 👯 I’m looking forward to learn from others and have the opportunity to collaborate
 
 <!--
 **jorge-gx/jorge-gx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
