@@ -2,14 +2,12 @@
 
 I'm Jorge and I love using tech to deliver solutions!
 
-- 🐍 I'm currently learning more about Python and SQL and how to write cleaner code 📑!
+- ⚡ I'm currently learning more about 🐍Python, SQL, and writing clean code 📑!
 - 🤓 I'm also teaching myself Julia at the moment...what a great language!
-- 🌟 I'm interested in software dev/eng, data eng/sci
-- 👯 I'm looking forward to learn from others and have the opportunity to collaborate
+- 🌟 I'm interested in software eng, data eng/sci
+- 👯 Always learning and looking to collaborate 
 
 <!--
-**jorge-gx/jorge-gx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
